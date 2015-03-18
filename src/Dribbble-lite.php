@@ -1,9 +1,7 @@
 <?php
 
 /**
- * Dribbble API PHP Lite Wrapper : A simple PHP wrapper for the Dribbble API v1.1 using only the Client Access Token
- * 
- * API Documentation: http://oscarmarcelo.com/dribbble-api
+ * Dribbble API PHP Lite Wrapper : A PHP wrapper for the Dribbble API v1 using only the Client Access Token
  * 
  * @package   OM-Dribbble-API-PHP-Lite
  * @author    Oscar Marcelo
